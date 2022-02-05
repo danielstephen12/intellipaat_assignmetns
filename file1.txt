@@ -1,2 +1,6 @@
 this is first commit
+<<<<<<< HEAD
+this is feature2
+=======
 this is feature1
+>>>>>>> 86f9c2c188587f10dbe79d2624dedb2a74ebebe2
